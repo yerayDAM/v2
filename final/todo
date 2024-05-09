@@ -1,0 +1,25 @@
+# TODO:
+
+terminar de añadir la funcionalidad de la base de datos.
+	-Realizar vista de resultados (tenia pensado hacer un tabwidget para cada resultado)
+		-implentar consultar para ventana del tabwidget - creado el tabwidget hecho afalta añadir las tablas dentro
+	-testear con diferentes resultados
+
+Añadir comprobación de api key para virustotal
+	- si no se tiene api key que se ejecute la funcionalidad pero no realice la request a la api 
+	- para añadir la ip en el proceso de instalación salta un pop up al usuario explicando lo que debe hacer para obtener el api key de virus total o le da la opcion de continuar sin usar esa funcionalidad.
+	- si el usuario añade el api key ese se va a guardar en un fichero el cual se llamara vtAK.txt el cual sera llamado para realizar la llamada a la api de virustotal.
+
+Comprobar procesos de obtener rutas del sistema probar dentro de una maquina virtual linux
+
+Cambiar el nombre de los elementos de la vista (tanto en el codido como en la vista fichero .ui)
+
+Cambiar iconos de la aplicacion
+
+hacer el readme.md
+
+Cambiar documento de entrega del proyecto con el nuevo diagrama de clases, la parte de las instalación y los cambios que comentaba la tutora.
+
+testear la instalacion con alguien
+
+
